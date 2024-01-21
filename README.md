@@ -1,1 +1,1 @@
-# permission
+# PERMISSION SCRIPT
